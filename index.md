@@ -94,7 +94,7 @@ end
 
 ### Small image
 
-![Octocat](./星空1.png)
+![Octocat](./星空1.jpg)
 
 ### Large image
 
